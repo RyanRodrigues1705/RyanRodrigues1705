@@ -1,16 +1,15 @@
-## Hi there 👋;
+seja bem vindo 👋
 
-<!--
-**RyanRodrigues1705/RyanRodrigues1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Ryan Rodrigues do Nascimento
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo no alura
+estou me desenvolvendo na linguagem javacripy
+utilizo essse espaço para minha organizaçao e compartilhamento dos meus projetos 
+  
+*** voce entra em tra em contato comigo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001117248665SP@al.educacao.sp.gov.br   
+
+@ryan14
+
+![](https://media.tenor.com/59KBqoE5hVkAAAAM/homero-indiferente.gif)
